@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="10px" viewBox="0 0 14 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Combined Shape Copy 7</title>
+    <defs>
+        <path d="M369.6,151.37037 L369.6,157 L360,157 L360,151.37037 L369.6,151.37037 Z M370.8,150.185185 L370.8,155.814815 L369.9,155.814185 L369.9,151.074074 L361.2,151.073185 L361.2,150.185185 L370.8,150.185185 Z M372,149 L372,154.62963 L371.1,154.629 L371.1,149.888889 L362.4,149.888 L362.4,149 L372,149 Z" id="path-1"></path>
+        <filter x="-16.7%" y="-12.5%" width="133.3%" height="150.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.270550272   0 0 0 0 0.270550272   0 0 0 0 0.270550272  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="style-guide" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="gallery" transform="translate(-359.000000, -149.000000)" fill-rule="nonzero">
+            <g id="Combined-Shape-Copy-7">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#FFFFFF" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>

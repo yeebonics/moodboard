@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group Copy 2</title>
+    <g id="style-guide" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="video" transform="translate(-197.000000, -131.000000)" fill-rule="nonzero">
+            <g id="Group-Copy-2" transform="translate(197.000000, 131.000000)">
+                <circle id="Oval" fill="#FFFFFF" cx="32" cy="32" r="32"></circle>
+                <path d="M25,24.236068 L25,39.763932 C25,40.8685015 25.8954305,41.763932 27,41.763932 C27.3104902,41.763932 27.6167163,41.6916418 27.8944272,41.5527864 L43.4222912,33.7888544 C44.4102482,33.2948759 44.8106969,32.0935298 44.3167184,31.1055728 C44.123191,30.718518 43.809346,30.404673 43.4222912,30.2111456 L27.8944272,22.4472136 C26.9064702,21.9532351 25.7051241,22.3536838 25.2111456,23.3416408 C25.0722902,23.6193517 25,23.9255778 25,24.236068 Z" id="Path-2" fill="#5E5E5E"></path>
+            </g>
+        </g>
+    </g>
+</svg>

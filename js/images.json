@@ -1,0 +1,157 @@
+[
+	{
+		"id": "Design",
+		"content": [
+			{
+				"group": "UI",
+				"subsections": [
+					{
+						"section": "Web",
+						"gallery": [
+							{"src":"ui-ar-concept.jpg","type": "image"},
+							{"src":"ui-cursor-positions.jpg","type": "image"},
+							{"src":"ui-drag-and-drop.gif","type": "image"},
+							{"src":"ui-gmail.jpg","type": "image"},
+								{
+								"type": "gallery", "gallery": [
+									{"src":"ui-google-maps-directions.jpg","type": "image"},
+									{"src":"ui-google-maps-search.png","type": "image"},
+									{"src":"ui-google-maps-web.jpg","type": "image"}
+								]
+							}
+						]
+					},
+					{
+						"section": "Mobile",
+						"gallery": [
+							{"src":"instagram-live-ui.jpg","type": "image"},
+							{"src":"new-morph-3.png","type": "image"},
+							{"src":"newmorph-1.png","type": "image"},
+							{"src":"newmorph-2.png","type": "image"},
+							{"src":"ui-material-design-lists.jpg","type": "image"}
+						]
+					}
+
+				]
+			},
+			{
+				"group": "Logos",
+				"subsections": [
+					{
+						"section": "Vector",
+						"gallery": [
+							{"src":"logo-yebisu.jpg","type": "image"},
+							{"src":"logo-m3.JPG","type": "image"},
+							{"src":"logo-nintendo-64.jpg","type": "image"},
+							{"src":"logo-beams.jpg","type": "image"},
+							{"src":"logo-uncle-tetsu.jpeg","type": "image"},
+							{"src": "logo-northface.jpg","type": "image"}
+						]
+					},
+					{
+						"section": "Type",
+						"gallery": [
+							{"src": "mott-32.png","type": "image"},
+							{"src":"type-stussy.jpeg","type": "image"},
+							{"src":"asahi-typography.jpg","type": "image"},
+							{"src": "nasa-worm-logotype.jpg","type": "image"}
+						]
+					}
+				]
+			}
+
+		]
+	},
+	{
+		"id": "Art",
+		"content": [
+			{
+				"group": "Painting",
+				"subsections": [
+					{
+						"section": "Classical",
+						"gallery": [
+							{"src": "velazquez-las-meninas.jpg","type": "image"},
+							{"src":"john-everett-millais-ophelia.jpg","type": "image"}
+						]
+					},
+						{
+						"section": "Expressionist",
+						"gallery": [
+							{"src": "rothko.jpg","type": "image"}
+						]
+					}
+					
+				]
+			},
+			{
+				"group": "Manga",
+				"subsections": [
+					{
+						"section": "Action",
+						"gallery": [
+							{"src": "guts-armor-2.jpg","type": "image"},
+							{"src": "gantz-bg.jpeg","type": "image"}
+
+						]
+					},
+						{
+						"section": "Sureral",
+						"gallery": [
+							{"src": "climber-16.jpg","type": "image"},
+							{"src": "emanon-5.png","type": "image"}
+						]
+					}
+					
+				]
+			}
+
+		]
+	},
+	{
+		"id": "Composition",
+		"content": [
+			{
+				"group": "Cinema",
+				"subsections": [
+					{
+						"section": "Framing",
+						"gallery": [
+							{"src":"mishima-mirror.jpg","type": "image"},
+							{"src":"handmaiden-ahgassi.jpg","type": "image"},
+							{"src": "lostInTranslation.jpg","type": "image"}
+						]
+					},
+						{
+						"section": "Blocking",
+						"gallery": [
+							{"src": "bottle-rocket.jpg","type": "image"},
+							{"src": "beguiled-window.jpg","type": "image"}
+						]
+					}
+				]
+			},
+			{
+				"group": "Photography",
+				"subsections": [
+					{
+						"section": "Film",
+						"gallery": [
+							{"src":"anthony-joseph-drexel-biddle.jpg","type": "image"},
+							{"src":"daido-moriyama-tao-okamoto.jpeg","type": "image"}
+
+						]
+					},
+						{
+						"section": "Color",
+						"gallery": [
+							{"src": "takashi-yasui.jpg","type": "image"},
+							{"src":"Liam-Wong-Pom-Klementieff.jpg","type": "image"}
+						]
+					}
+					
+				]
+			}
+		]
+	}
+]

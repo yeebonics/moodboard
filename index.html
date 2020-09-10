@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Moodboard</title>
+	<meta charset="UTF-8">
+	<link rel="shortcut icon" type="image/png" href="assets/favicon-mb.png"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>	
+
+<div id="container">
+	<div class="overlay"></div>	
+	<div id="modal-container">
+		<div class="modal-background">
+			<div class="modal">		
+					<div class="modal-viewer"></div>
+			</div>
+		</div>
+	</div>	
+	
+	<main id="content">
+		<nav id="nav">
+			<img id="logo" src="/assets/logo-moodboard.png" alt="moodboard logo">
+			<!--
+			<div class="search-container">
+				<input id="search" type="text" id="fname" name="fname" placeholder="Search">
+			</div>
+			-->
+			
+			<div id="modal-btns">
+				<div class="button-container">
+						<div id="file-name" class="btn"></div>
+				</div>
+				<div class="button-container">
+					<div id="back" class="btn">
+						<img src="assets/icon-back.png" alt="Arrow back icon">
+					</div>
+					<div id="index" class="btn">
+						<p></p>
+					</div>
+					<div id="next" class="btn">
+						<img src="assets/icon-next.png" alt="Arrow next icon">
+					</div>
+				</div>
+
+				<div class="button-container">
+					<div id="modal-zoom" class="btn">
+						<img src="assets/icon-zoom.png" alt="Zoom Icon">
+					</div>
+					
+					<div id="close-modal-btn" class="btn">
+						<img src="assets/icon-close.png" alt="Close modal icon">
+					</div>
+				</div>
+			</div>
+		</nav>
+		<div id="gallery">
+			<div id="side-nav">
+				<div class="container">
+					<section id="list"></section>
+				</div>
+			</div>
+			<div class="gallery-container">
+				<div class="gallery-header">
+					<div class="container">
+						<div class="gallery-tabs"></div>
+					</div>
+				</div>
+				
+				<div id="gallery-container" class="loaded">
+					<div class="images">
+						
+					</div>
+				</div>
+			</div>
+		</div>
+	</main>
+</div>
+	
+	<script src="js/jquery-3.3.1.min.js"></script>
+	<script src="js/jquery.zoom.js"></script>
+	<script src=js/app.js></script>
+</body>
+</html>
