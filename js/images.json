@@ -10,23 +10,12 @@
 						"gallery": [
 							{"src":"ui-ar-concept.jpg","type": "image"},
 							{"src":"ui-cursor-positions.jpg","type": "image"},
-							{"src":"ui-drag-and-drop.gif","type": "image"},
-							{"src":"ui-gmail.jpg","type": "image"},
-								{
-								"type": "gallery", "gallery": [
-									{"src":"ui-google-maps-directions.jpg","type": "image"},
-									{"src":"ui-google-maps-search.png","type": "image"},
-									{"src":"ui-google-maps-web.jpg","type": "image"}
-								]
-							}
+							{"src":"ui-drag-and-drop.gif","type": "image"}
 						]
 					},
 					{
 						"section": "Mobile",
 						"gallery": [
-							{"src":"instagram-live-ui.jpg","type": "image"},
-							{"src":"new-morph-3.png","type": "image"},
-							{"src":"newmorph-1.png","type": "image"},
 							{"src":"newmorph-2.png","type": "image"},
 							{"src":"ui-material-design-lists.jpg","type": "image"}
 						]
@@ -40,9 +29,6 @@
 					{
 						"section": "Vector",
 						"gallery": [
-							{"src":"logo-yebisu.jpg","type": "image"},
-							{"src":"logo-m3.JPG","type": "image"},
-							{"src":"logo-nintendo-64.jpg","type": "image"},
 							{"src":"logo-beams.jpg","type": "image"},
 							{"src":"logo-uncle-tetsu.jpeg","type": "image"},
 							{"src": "logo-northface.jpg","type": "image"}
